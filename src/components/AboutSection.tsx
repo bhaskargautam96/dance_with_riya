@@ -37,9 +37,9 @@ const AboutSection = () => {
 
             <div className="space-y-6 text-muted-foreground leading-relaxed">
               <p>
-                Hi, I'm <strong className="text-foreground">Aura</strong> — a professional choreographer 
+                Hi, I'm <strong className="text-foreground">Riya</strong> — a professional choreographer 
                 who believes dance is not just steps, but storytelling through movement. With over 
-                10 years of experience, I've dedicated my life to the art of dance and helping 
+                4+ years of experience, I've dedicated my life to the art of dance and helping 
                 others discover their own grace.
               </p>
               <p>
@@ -64,7 +64,7 @@ const AboutSection = () => {
               </div>
               <div className="flex items-center gap-3 bg-lavender-light px-4 py-2 rounded-full">
                 <span className="w-2 h-2 rounded-full bg-accent" />
-                <span className="text-sm font-medium">10+ Years Experience</span>
+                <span className="text-sm font-medium">4+ Years Experience</span>
               </div>
               <div className="flex items-center gap-3 bg-blush-light px-4 py-2 rounded-full">
                 <span className="w-2 h-2 rounded-full bg-primary" />
